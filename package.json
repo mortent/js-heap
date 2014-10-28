@@ -1,0 +1,29 @@
+{
+  "name": "js-heap",
+  "version": "0.1.0",
+  "description": "An implementation of a heap in JavaScript.",
+  "scripts": {
+    "test": "mocha --reporter spec test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "algorithm",
+    "datastructure",
+    "heap"
+  ],
+  "author": "Morten Torkildsen",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "grunt": "^0.4.5",
+    "grunt-mocha-test": "^0.12.2",
+    "mocha": "^2.0.1"
+  }
+}
